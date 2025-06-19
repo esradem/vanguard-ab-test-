@@ -3,13 +3,13 @@
 ##  Overview
 This project analyzes the results of a digital A/B test conducted by Vanguard, a US-based investment management company. The experiment aimed to evaluate whether a redesigned user interface (UI) improved the process completion rate among clients.
 
-## 🔍 Objective
+## Objective
 Determine whether the new UI led to:
 - Higher completion rates
 - Statistically significant improvements
 - Justifiable changes based on cost-effectiveness (≥ 5% improvement)
 
-##  Data Sources
+## Data Sources
 - `df_final_experiment_clients.txt`: Experiment group assignment (Test vs Control)
 - `df_final_demo.txt`: Client demographic and account data
 - `df_final_web_data_pt_1.txt` and `df_final_web_data_pt_2.txt`: Clickstream data detailing process steps
