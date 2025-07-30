@@ -36,6 +36,8 @@ Determine whether the new UI led to:
 - Completion rate bar charts by group, age, and gender
 - Funnel step drop-off visualization
 - Tableau dashboards for interactive filtering and demographic insights
+  ![Tableau Dashboard Preview](slides/dashboard.png)
+
 
 ##  Conclusion
 The data supports rolling out the new UI due to a statistically and practically significant improvement in completion rates. No demographic biases were detected, and further improvements are recommended using post-rollout behavioral feedback.
